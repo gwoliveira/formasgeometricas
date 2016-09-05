@@ -1,0 +1,26 @@
+.quadrado{
+	background-color: pink;
+	width:150px;
+	height:150px;
+	float:left;
+	margin-right:10px;
+}
+.circulo{
+	background-color:green;
+	width:150px;
+	height:150px;
+	float:left;
+	border-radius: 50%;
+	margin-right:10px;
+	
+}
+.retangulo{
+	background-color:yellow;
+	width:150px;
+	height:75px;
+	float:left;
+}
+.rotate45{
+	transform: rotate(45deg);
+}
+
