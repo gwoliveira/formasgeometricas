@@ -4,6 +4,7 @@
 	height:150px;
 	float:left;
 	margin-right:10px;
+	margin-left:10px;
 }
 .circulo{
 	background-color:green;
@@ -22,5 +23,28 @@
 }
 .rotate45{
 	transform: rotate(45deg);
+}
+.quadradofora{
+	width:150px;
+	height:150px;
+	float:left;
+	margin-right:10px;
+	margin-left:10px;
+	overflow:hidden;
+}
+.preparaTriangulo{
+	margin-top:106px;
+	width:150px;
+	height:150px;
+	background-color:red;
+}
+.triangulo{
+	margin-right: 10px;
+    width: 0px;
+    height: 0px;
+    float: left;
+    border-left: 150px solid transparent;
+    border-bottom: 150px solid red;
+    border-right: 150px solid transparent;
 }
 
